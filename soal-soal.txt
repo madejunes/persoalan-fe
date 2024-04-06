@@ -1,2 +1,3 @@
 1. Bikin UI Star Rating yang bisa memunculkan tampilan rating 1 sampai 5 dengan dan bisa bintang setengah misalkan 1,5 2,5 dst dst. Nice to have: style rating berubah saat hover.
 2. Bikin UI untuk zoom in dan zoom out image, atau text.
+3. bikin datepicker manual (tanpa UI library)
