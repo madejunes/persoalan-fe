@@ -2,3 +2,4 @@
 2. Bikin UI untuk zoom in dan zoom out image, atau text.
 3. bikin datepicker manual (tanpa UI library)
 4. bikin komponen scrollspy
+5. bikin komponen progress bar/line
