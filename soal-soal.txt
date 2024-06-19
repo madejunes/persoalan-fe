@@ -3,3 +3,4 @@
 3. bikin datepicker manual (tanpa UI library)
 4. bikin komponen scrollspy
 5. bikin komponen progress bar/line
+6. bikin breadcrumb component base on url yg disediakan
